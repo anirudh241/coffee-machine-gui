@@ -1,0 +1,33 @@
+{
+    "anmol": {
+        "balance": 2.0,
+        "drinks": {
+            "latte": 1,
+            "espresso": 1,
+            "cappuccino": 3
+        }
+    },
+    "anirudh": {
+        "balance": 0.5,
+        "drinks": {
+            "espresso": 1,
+            "cappuccino": 1
+        }
+    },
+    "anurag": {
+        "balance": 0.5,
+        "drinks": {
+            "latte": 1,
+            "espresso": 2,
+            "cappuccino": 1
+        }
+    },
+    "amaan": {
+        "balance": 0.0,
+        "drinks": {
+            "latte": 1,
+            "espresso": 1,
+            "cappuccino": 2
+        }
+    }
+}
