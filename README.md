@@ -40,10 +40,14 @@ coffee-machine-gui/
 ├── data/
 │   ├── users.json       # Stores user data (balance, drink history)
 │   └── inventory.json   # Stores coffee machine inventory
-├── machine.py           # CoffeeMachine class (handles drinks and resources)
+├── utils/
+    ├──file_io.py
+├── coffee_machine.py           # CoffeeMachine class (handles drinks and resources)
 ├── user.py              # User and UserManager classes (handles user accounts)
 ├── gui.py               # GUI Application built using Tkinter
 ├── main.py              # Entry point to run the app
+├── drink.py
+├── menu.py
 └── README.md            # Project documentation
 ```
 
